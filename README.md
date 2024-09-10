@@ -5,3 +5,4 @@ this is my intro to T&T repository using Github Desktop and Visual Studio Code
 ## Features
 - Feature 1
 - Feature 2
+![Social Media and Gender Studies]
