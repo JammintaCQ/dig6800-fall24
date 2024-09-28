@@ -1,8 +1,8 @@
 <html> 
     <head> 
     </head> 
-    <body> Aminta Quintero-Jackson
-        <h1>Texts and Technology PhD Student </h1>
+        <h1> Aminta Quintero-Jackson</h1>
+        <Body>Texts and Technology PhD Student </body>
         <p><strong>Rhetoric and Composition Track </strong> </p> 
         <ol>
             <li>Features</li>
