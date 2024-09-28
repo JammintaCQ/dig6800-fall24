@@ -2,7 +2,7 @@
     <head> 
     </head> 
         <h1> Aminta Quintero-Jackson</h1>
-        <Body>Texts and Technology PhD Student </body>
+        <h2>Texts and Technology PhD Student </h2>
         <p><strong>Rhetoric and Composition Track </strong> </p> 
         <ol>
             <li>Features</li>
