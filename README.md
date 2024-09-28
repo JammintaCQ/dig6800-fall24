@@ -3,5 +3,4 @@
 ## Introduction
 this is my intro to T&T repository using Github Desktop and Visual Studio Code
 ## Features
-- Feature 1
-- Feature 2
+I am making a lot of changes as I go, and a lot of mistakes. 
