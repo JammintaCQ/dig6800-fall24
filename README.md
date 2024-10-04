@@ -3,4 +3,4 @@
 this is my intro to T&T repository using Github Desktop and Visual Studio Code
 I am making a lot of changes as I go, and a lot of mistakes. 
 
-![Resume Headshot](assets/Resume Headshot.png)
+![Resume Headshot]([assets/Resume Headshot.png](https://github.com/JammintaCQ/dig6800-fall24/blob/main/assets/Resume%20Headshot.png?raw=true))
