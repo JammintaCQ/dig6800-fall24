@@ -1,5 +1,6 @@
-# dig6800-fall24
-# My First Repository
-this is my intro to T&T repository using Github Online and Visual Studio Code
+# Aminta Quintero-Jackson
+# Texts and Technology PhD Student
+# Universitiy of Central Florida 
+
 
 ![Resume Headshot](assets/headshot.png)
