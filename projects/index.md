@@ -8,7 +8,7 @@
 - Gender
 - Social Media
 ### Publications
-- Chapter: Exploring the Intersection of Pedagogy and Ethics in the Use of VR/XR in Higher Education
+- Chapter: Exploring the Intersection of Pedagogy and Ethics in the Use of VR/XR in Higher Education in Ethical Considerations of Virtual Reality in the College Classroom
 ### Contact
 - aminta.quinterojackson@ucf.edu
 
