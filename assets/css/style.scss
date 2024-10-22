@@ -1,3 +1,59 @@
 ---
 ---
 @import "{{ site.theme }}";
+header {
+
+    background: #5C4033;
+
+}
+
+header a.button {
+
+    background: #8A9A5B;
+
+}
+
+aside a.button {
+
+    background: #6B8E23;
+
+}
+
+#main-content h2:before {
+
+    color: #C67355;
+
+}
+
+#main-content h1:before {
+
+    color: #C67355;
+
+}
+
+#main-content h3 {
+
+    color: #8B7355;
+
+  }
+
+  #main-content h4 {
+
+    color: #8B7355;
+
+  }
+
+  #main-content h6 {
+
+    color: #8B7355;
+
+  }
+
+body {
+  
+    background: #F5F1E6;
+
+}
+
+a {
+    color: #7B886B;
