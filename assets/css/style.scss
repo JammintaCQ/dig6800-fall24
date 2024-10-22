@@ -48,3 +48,9 @@ aside a.button {
     color: #C66B3D;
 
   }
+
+h1:before, h2:before, h3:before {
+    content: "///";
+    color: #8B9D77 !important; /* Using the sage green color */
+    padding-right: 0.3em;
+}
