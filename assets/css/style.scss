@@ -2,6 +2,15 @@
 ---
 @import "{{ site.theme }}";
 
+/* Add background color to body and content area */
+body {
+    background: #F5E6D3;  /* Light warm tan */
+}
+
+.main-content {
+    background: #FFF5E1;  /* Slightly lighter tan for content area */
+}
+
 /* Base header and button styles */
 header {
     background: #5C4033;
@@ -54,5 +63,5 @@ h3#contact:before,
 #about-me,
 #research-interests,
 #contact {
-    color: #5C4033;  /* Using the rich brown color for headings */
+    color: #5C4033;
 }
