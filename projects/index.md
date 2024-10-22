@@ -1,9 +1,8 @@
 # Projects
 
-## Project 1
-- Project Description
-- Technologies Used
+## Academic CV
+- Build a Website for CV
+- GitHub
 
-## Project 2
-- Project Description
-- Technologies Used
+
+
