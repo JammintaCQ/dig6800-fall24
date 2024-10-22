@@ -1,56 +1,58 @@
 ---
 ---
-@import "{{ site.theme ))";
+@import "{{ site.theme }}";
 
+/* Base header and button styles */
 header {
-  
     background: #5C4033;
-  
 }
 
 header a.button {
-  
     background: #8B9D77;
-  
 }
 
 aside a.button {
-  
-  background: #2C4A1D;
+    background: #2C4A1D;
 }
 
+/* Main content heading styles */
 #main-content h2:before {
-
-    color: #C66B3D;
-
+    color: #C66B3D !important;
 }
 
 #main-content h1:before {
-
-    color: #C66B3D;
-
+    color: #C66B3D !important;
 }
 
 #main-content h3 {
-
     color: #C66B3D;
+}
 
-  }
-
-  #main-content h4 {
-
+#main-content h4 {
     color: #C66B3D;
+}
 
-  }
-
-  #main-content h6 {
-
+#main-content h6 {
     color: #C66B3D;
+}
 
-  }
-
-h1:before, h2:before, h3:before {
+/* Specific heading overrides */
+h3#about-me:before,
+h3#research-interests:before,
+h3#contact:before,
+#main-content h3:before {
     content: "///";
-    color: #8B9D77 !important; /* Using the sage green color */
-    padding-right: 0.3em;
+    color: #8B9D77 !important;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    margin-right: 0.3em;
+}
+
+/* Additional heading color overrides */
+#aminta-quinterojackson,
+#university-of-central-florida,
+#phd-student,
+#about-me,
+#research-interests,
+#contact {
+    color: #5C4033;  /* Using the rich brown color for headings */
 }
