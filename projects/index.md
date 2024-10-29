@@ -3,9 +3,7 @@
 # Presentations
 - “Ethics and Sensitive Content: Birth Workers on Instagram.” Association of Teachers of Technical Writing Virtual Conference:  Building Community and Coalitions through Liberatory Pedagogies in Technical Communication.  June 10-24, 2024. Panelist. 
 
-## Academic CV
-- Build a Website for CV
-- GitHub
+
 
 
 
