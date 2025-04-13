@@ -6,7 +6,7 @@ Aminta is a PhD student in the Texts and Technology Doctoral Program at the Univ
 ### Research Interests
 - Rhetoric and Composition
 - Gender
-- Social Media
+- Media Theory
 ### Contact
 - aminta.quinterojackson@ucf.edu
 
