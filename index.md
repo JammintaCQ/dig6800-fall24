@@ -19,5 +19,5 @@
 * In-home elderly care, cooking, cleaning, doctor appointments 
 ## Digital Projects
 * [The Saddest Noise](https://openprocessing.org/sketch/2602956)
-* [Grocery Store Baby Blowout](bitsy)
-* [
+* [Grocery Store Baby Blowout](bitsy.html)
+* [Twinethinking](twinethiking.html)
