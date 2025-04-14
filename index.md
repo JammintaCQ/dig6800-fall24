@@ -20,4 +20,4 @@
 ## Digital Projects
 * [The Saddest Noise](https://openprocessing.org/sketch/2602956)
 * [Grocery Store Baby Blowout](bitsy.html)
-* [Twinethinking](twinethiking.html)
+* [Twinethinking](twinethinking.html)
