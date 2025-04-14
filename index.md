@@ -17,3 +17,7 @@
 * Musician
 ## Elderly Caretaker
 * In-home elderly care, cooking, cleaning, doctor appointments 
+## Digital Projects
+* [The Saddest Noise](https://openprocessing.org/sketch/2602956)
+* [Grocery Store Baby Blowout](bitsy)
+* [
